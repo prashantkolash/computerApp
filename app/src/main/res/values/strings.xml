@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">app</string>
+    <string name="firstname_hint">First Name</string>
+    <string name="lastname_hint">Last Name</string>
+    <string name="phone_hint">Enter Your Phone No.</string>
+    <string name="email_hint">Enter your email Address</string>
+    <string name="adhaar">Please Upload Aadhaar Card(pdf format)</string>
+    <string name="main">Registration Form</string>
+    <string name="next_hint">Next</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="plsPermissionToast">Please Provide Permission</string>
+</resources>
